@@ -52,7 +52,7 @@ h2 {
 }
 
 .list-icons {
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .list-icons .list-inline-item i:hover {
@@ -145,3 +145,4 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
